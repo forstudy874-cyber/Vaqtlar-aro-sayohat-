@@ -1,0 +1,5 @@
+{
+  "name": "Fashion Through Time AI",
+  "description": "An AI-powered application that transforms your photos into stunning, photorealistic fashion images from different historical and futuristic eras. Users can upload a photo, select a time period, and generate a unique image. The app also includes features for quick image editing and detailed analysis using Gemini models.",
+  "requestFramePermissions": []
+}
